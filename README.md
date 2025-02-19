@@ -11,12 +11,12 @@ Welcome to the terraform-git wiki!
 
       ssh-add id_rsa
 
-  cat ssh id_rsa.pub
-  SSH public key add git account in SSH .
-   git clone 
-   git  add .
-   git commit -  "fits test commit"
-   git push -u origin master
+     cat ssh id_rsa.pub
+     SSH public key add git account in SSH .
+      git clone 
+      git  add .
+      git commit -  "first test commit"
+      git push -u origin master
    
 
   
