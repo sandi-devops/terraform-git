@@ -16,6 +16,8 @@ Welcome to the terraform-git wiki!
       git clone 
       git  add .
       git commit -  "first test commit"
+
+      Git push —set-upstream origin name
       git push -u origin master
    
 
